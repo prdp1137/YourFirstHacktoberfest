@@ -56,6 +56,7 @@
 | [Ze Falcon](https://github.com/Ze-Falcon)              | #Development           |
 | [Sovit Lekhak](https://github.com/sovitpy)             | #Development           |
 | [Nathalia Ohana](https://github.com/Nathalia1234)      | #Development           |
+| [Yagami Roshan](https://github.com/yagamipal)          | #SEO                   |
 | _Your Name Here_                                       | _What do you love?_    |
 
 _You can also create a PR changing this table's caption text to "**Contributors Table**". This one is only for the first person to do so._
