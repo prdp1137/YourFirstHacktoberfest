@@ -59,7 +59,7 @@
 | [Yagami Roshan](https://github.com/yagamipal)          | #SEO                   |
 | [Ricardo Dantas](https://github.com/ylicensed)         | #AI                    |  
 | [Celeste Zapata](https://github.com/zetadeceleste)     | #Development           |
-| _Your Name Here_                                       | _What do you love?_    |
+| [Limpin Ettin](https://github.com/limpinettin)         | #INFOSEC               |
 
 _You can also create a PR changing this table's caption text to "**Contributors Table**". This one is only for the first person to do so._
 
