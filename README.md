@@ -61,6 +61,7 @@
 | [Celeste Zapata](https://github.com/zetadeceleste)     | #Development           |
 | [Limpin Ettin](https://github.com/limpinettin)         | #INFOSEC               |
 | [Pramod Rao Budramane](https://github.com/PramodRaoB)  | #Development           |
+| [Samir Belaroui](https://github.com/Samir-Belaroui)    | #Devsign               |
 | _Your Name Here_                                       | _What do you love?_    |
 
 _You can also create a PR changing this table's caption text to "**Contributors Table**". This one is only for the first person to do so._
