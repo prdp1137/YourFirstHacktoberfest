@@ -3,4 +3,4 @@
 ## Solution:
 
 #!/bin/bash
-ls /directorypath/*.c
+ls /home/YourFirstHacktoberfest/*.c
