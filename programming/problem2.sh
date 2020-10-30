@@ -3,5 +3,4 @@
 ## Solution:
 
 #!/bin/bash
-publicip="$(curl -s checkip.amazonaws.com)"
-echo "Your Public IP address is: $publicip" 
+echo "Public IP Address: "$(curl -s ifconfig.me)
