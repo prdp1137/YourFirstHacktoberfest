@@ -59,6 +59,7 @@
 | [Yagami Roshan](https://github.com/yagamipal)          | #SEO                   |
 | [Ricardo Dantas](https://github.com/ylicensed)         | #AI                    |  
 | [Celeste Zapata](https://github.com/zetadeceleste)     | #Development           |
+| [Limpin Ettin](https://github.com/limpinettin)         | #INFOSEC               |
 | [Pramod Rao Budramane](https://github.com/PramodRaoB)  | #Development           |
 | _Your Name Here_                                       | _What do you love?_    |
 
