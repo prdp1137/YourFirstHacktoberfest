@@ -3,4 +3,5 @@
 ## Solution:
 
 #!/bin/bash
-ls /home/YourFirstHacktoberfest/*.c
+cd /home/YourFirstHacktoberfest/
+ls *.c
