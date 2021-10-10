@@ -3,7 +3,7 @@
 ### Get something that works similar to street addresses!
 
 ## Solution:
-_The SOLUTION should be placed here._
+Solukhumbu District, Province No. 1, Nepal
 
 ## Solving Methodology:
-_The SOLVING METHODOLOGY should be placed here._
+Visit the Wikipedia page of Mt. Everest from https://en.wikipedia.org/wiki/Mount_Everest and find the "Location" text to find out the result.
